@@ -2,7 +2,7 @@
 Clase php para exportar tablas mysql gigantes y dividir los resultados en varios archivos para hacer la tarea de exportacion e importacion mas fácil.
 
 
-Ejemplo de uso
+Use example:
 
 <?php
     
